@@ -6,7 +6,7 @@ const provider = new GoogleAuthProvider();
 const sw = new URL("service-worker.js", import.meta.url);
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
-    .register(sw.href, { scope: "/finance-web-app/" })
+    .register(sw.href, { scope: "/Budget-Planner/" })
     .then(() => console.log("Service Worker Registered for scope:", sw.href))
     .catch((err) => console.error("Service Worker Error:", err));
 }
