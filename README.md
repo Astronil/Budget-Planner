@@ -56,11 +56,11 @@ Simply open the index.html file in your browser, or use a live server extension 
 
 4️⃣ Firebase Setup (Optional)
 
-To connect the app to Firebase Realtime Database:
+To connect the app to Firebase Cloud Firestore:
 
 Create a Firebase project at Firebase Console
 
-Add a Realtime Database and configure its rules
+Add a Cloud Firestore Database and configure its rules
 
 Replace the Firebase configuration in the JavaScript file with your project details
 
