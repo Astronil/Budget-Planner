@@ -37,18 +37,18 @@ Follow these steps to set up and run the project locally:
 
 1️⃣ Clone the repository
 
-````bash
-git clone https://github.com/Astronil/Budget-Planner.git ```
+```bash
+git clone https://github.com/Astronil/Budget-Planner.git
 
-````
+```
 
 2️⃣ Navigate to the project folder and then install dependencies
 
-````bash
+```bash
 cd cd budget-planner
-npm install ```
+npm install
 
-````
+```
 
 3️⃣ Open index.html
 
