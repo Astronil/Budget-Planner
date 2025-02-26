@@ -601,7 +601,7 @@ var _auth = require("firebase/auth");
 const provider = new (0, _auth.GoogleAuthProvider)();
 const sw = new URL(require("9f41ac59bb29f729"));
 if ("serviceWorker" in navigator) navigator.serviceWorker.register(sw.href, {
-    scope: "/finance-web-app/"
+    scope: "/Budget-Planner/"
 }).then(()=>console.log("Service Worker Registered for scope:", sw.href)).catch((err)=>console.error("Service Worker Error:", err));
 function signIn() {
     (0, _auth.signInWithPopup)((0, _firebaseJs.auth), provider).then((result)=>{
