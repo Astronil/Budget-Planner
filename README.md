@@ -71,7 +71,3 @@ Interested in improving the Budget Planner? Feel free to submit issues or contri
 💡 Don't forget to update the GitHub Pages link, repository link, and image once your site is live! 🎉
 
 Made with by [Anil Poudel]
-
-```
-Last Updated: February 26, 2024.
-```
