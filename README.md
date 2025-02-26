@@ -37,11 +37,18 @@ Follow these steps to set up and run the project locally:
 
 1️⃣ Clone the repository
 
-git clone <https://github.com/Astronil/Budget-Planner.git>
+````bash
+git clone https://github.com/Astronil/Budget-Planner.git ```
 
-2️⃣ Navigate to the project folder
+````
 
-cd budget-planner
+2️⃣ Navigate to the project folder and then install dependencies
+
+````bash
+cd cd budget-planner
+npm install ```
+
+````
 
 3️⃣ Open index.html
 
@@ -61,8 +68,10 @@ Replace the Firebase configuration in the JavaScript file with your project deta
 
 Interested in improving the Budget Planner? Feel free to submit issues or contribute by creating pull requests. Let's build a better financial tool together! 🚀
 
-📜 License
-
-This project is open-source and available under the MIT License.
-
 💡 Don't forget to update the GitHub Pages link, repository link, and image once your site is live! 🎉
+
+Made with by [Anil Poudel]
+
+```
+Last Updated: February 26, 2024.
+```
